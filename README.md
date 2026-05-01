@@ -1,6 +1,6 @@
 # 🛡️ Ejaz Abbas — Cybersecurity Portfolio
 
-![Portfolio Screenshot](./assets/screenshot.png)
+![Portfolio Screenshot](./screenshot.png)
 
 ## 🌐 Live Website
 
