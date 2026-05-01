@@ -39,12 +39,6 @@ Focused on securing enterprise environments and improving system security.
 
 ---
 
-## 📸 Screenshot
-
-![Portfolio Preview](./screenshot.png)
-
----
-
 ## 📬 Contact
 
 * Location: Hyderabad, India
